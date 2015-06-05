@@ -1,0 +1,5 @@
+<service name="extract_ceph_spec">
+  <summary>Extract ceph specfile from archive</summary>
+  <description>This service can be used to extract the ceph.spec.in file from a tar archive.</description>
+</service>
+
